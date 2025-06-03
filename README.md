@@ -55,7 +55,7 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 
 ```
 📁 codigo/
-├── dronegrid.py
+├── gs.py
 ├── sinalizacao.mp4
 └── subestacao.jpg
 ```
