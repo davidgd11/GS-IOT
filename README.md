@@ -49,17 +49,11 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 
 ## 🎥 Vídeo Demonstrativo
 
-🔗 Assista ao vídeo: [📺 DroneGrid - Demonstração do Projeto](https://www.youtube.com/watch?v=SEU-LINK-AQUI)
+🔗 Assista ao vídeo: [📺 DroneGrid - Demonstração do Projeto]([https://www.youtube.com/watch?v=SEU-LINK-AQUI](https://youtu.be/vLgsZXoMSGQ))
 
 ## 📂 Código Fonte
 
-```
-📁 dronegrid/
-├── dronegrid.py
-├── sinalizacao.mp4
-├── subestacao.jpg
-└── video_saida.mp4
-```
+
 
 ## 👥 Integrantes
 
