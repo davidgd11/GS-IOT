@@ -50,11 +50,6 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
    python dronegrid.py
    ```
 
-4. O vídeo com os gestos e a legenda será salvo como:
-   ```
-   video_saida.mp4
-   ```
-
 ## 🎥 Vídeo Demonstrativo
 
 🔗 Assista ao vídeo: [📺 DroneGrid - Demonstração do Projeto](https://www.youtube.com/watch?v=SEU-LINK-AQUI)
@@ -73,10 +68,8 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 
 | Nome               | RM       |
 |--------------------|----------|
-| Fulano da Silva    | RM123456 |
-| Ciclana Ferreira   | RM123457 |
-| João Souza         | RM123458 |
-| Maria Oliveira     | RM123459 |
+| David G. B. Denunci| RM123456 |
+| Lucas P. de Toledo | RM123457 |
 
 ## 📝 Licença
 
