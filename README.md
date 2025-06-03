@@ -53,7 +53,10 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 
 ## 📂 Código Fonte
 
-
+├── codigo/
+├── dronegrid.py
+├── sinalizacao.mp4
+└── subestacao.jpg
 
 ## 👥 Integrantes
 
