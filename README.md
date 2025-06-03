@@ -47,7 +47,7 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 3. Rode o script principal:
 
    ```bash
-   python dronegrid.py
+   python gs.py
    ```
 
 ## 🎥 Vídeo Demonstrativo
@@ -68,8 +68,8 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 
 | Nome               | RM       |
 |--------------------|----------|
-| David G. B. Denunci| RM123456 |
-| Lucas P. de Toledo | RM123457 |
+| David G. B. Denunci| RM98603  |
+| Lucas P. de Toledo | RM97913  |
 
 ## 📝 Licença
 
