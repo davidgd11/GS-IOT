@@ -1,8 +1,6 @@
 
 # 🛰️ DroneGrid – Monitoramento Inteligente em Falta de Energia
 
-![Subestação](subestacao.jpg)
-
 ## ⚠️ Descrição do Problema
 
 A falta de energia elétrica compromete o funcionamento de hospitais, centros de comando, indústrias e serviços essenciais. Atualmente, as inspeções em infraestruturas elétricas são manuais, demoradas e colocam técnicos em risco.  
@@ -31,7 +29,6 @@ O sistema reconhece a quantidade de dedos levantados, associando cada gesto a um
 - **MediaPipe (Google)** – detecção de mãos e segmentação
 - **OpenCV** – vídeo, desenho e manipulação de imagens
 - **cv2.VideoWriter** – gravação do vídeo processado com legendas
-- **Editor de vídeo**: CapCut ou Pictory (para montagem e narração)
 
 ## 📸 Instruções de Uso
 
